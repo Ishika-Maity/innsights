@@ -50,7 +50,7 @@ Welcome to this **Hotel Sentiment Analysis** project! This repository contains a
 Make sure you have Python installed. Clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-repo/innsights.git
+git clone https://github.com/Ishika-Maity/innsights.git
 pip install -r requirements.txt
 ```
 
