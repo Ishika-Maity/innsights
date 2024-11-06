@@ -1,10 +1,10 @@
-# innsi8hts.ai - Hotel Reviews Sentiment Analyser
+# innsights - Hotel Reviews Sentiment Analyser
 
 Welcome to this **Hotel Sentiment Analysis** project! This repository contains all the necessary components to scrape, analyze, predict & summarise sentiments from hotel reviews.
 
 ## 🚀 Project Overview
 
-**innsi8hts.ai** project is designed to analyze hotel reviews and predict sentiments, categorizing them as positive or negative. By leveraging advanced Natural Language Processing (NLP) techniques combined with classical Machine Learning models, the system automates sentiment analysis, allowing hotels to gain valuable insights into guest feedback. This solution helps in understanding customer satisfaction, identifying areas for improvement, and enhancing overall service quality. Additionally, the platform simplifies the process by providing detailed insights into the reviews, making it easier for hotel management to act on customer opinions effectively.
+**innsights** project is designed to analyze hotel reviews and predict sentiments, categorizing them as positive or negative. By leveraging advanced Natural Language Processing (NLP) techniques combined with classical Machine Learning models, the system automates sentiment analysis, allowing hotels to gain valuable insights into guest feedback. This solution helps in understanding customer satisfaction, identifying areas for improvement, and enhancing overall service quality. Additionally, the platform simplifies the process by providing detailed insights into the reviews, making it easier for hotel management to act on customer opinions effectively.
 
 ## 📂 Project Structure
 
@@ -50,7 +50,7 @@ Welcome to this **Hotel Sentiment Analysis** project! This repository contains a
 Make sure you have Python installed. Clone this repository and install the required packages:
 
 ```bash
-git clone https://github.com/your-repo/innsi8hts.ai.git
+git clone https://github.com/your-repo/innsights.git
 pip install -r requirements.txt
 ```
 
@@ -71,17 +71,6 @@ pip install -r requirements.txt
    streamlit run streamlit_app.py
    ```
 
-## 🧠 Model Overview
-
-- **Logistic Regression**: Baseline model for comparison.
-- **Random Forest**: Ensemble method to capture complex patterns.
-- **Naive Bayes**: Quick and interpretable model.
-- **LightGBM & XGBoost**: Gradient boosting models for high accuracy.
-
 ## 📈 Results
 
 Our models have been fine-tuned and evaluated to achieve high accuracy in predicting sentiment from hotel reviews. Detailed results can be found in the notebook.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
